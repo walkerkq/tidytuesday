@@ -20,13 +20,10 @@ visualizing the slave route data.
 Please note that this map provides only a partial visual for voyages.
 The
 [dataset](https://slavevoyages.org/voyage/about#methodology/coverage-of-the-slave-trade/1/en/)
-only includes details for ~5 million enslaved Africans who arrived alive
-at the final port, while it is suggested that more than 12.5 million
-captives departed Africa. I was only able to match ~53% of voyages to
-geolocation data for plotting, which translates to 1.6 million
-individuals, about a third of `n_slaves_arrived`; this is an incomplete
-and inexhaustive visualization of the trans-Atlantic slave trade and
-should be considered a sample based on available data.
+includes details for 36,000 voyages out of an estimated 41,000. I was
+able to match ~53% of voyages to geolocation data for plotting; this is
+an incomplete and inexhaustive visualization of the trans-Atlantic slave
+trade and should be considered a sample based on available data.
 
 ### Code
 
